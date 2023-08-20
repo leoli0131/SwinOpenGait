@@ -11,6 +11,7 @@ We use OpenGait as our code framework and add some feature like Transformer base
 ## Getting Started
 
 
+
 Please see [0.get_started.md](docs/0.get_started.md). We also provide the following tutorials for your reference:
 - [Prepare dataset](docs/2.prepare_dataset.md)
 - [Detailed configuration](docs/3.detailed_config.md)
